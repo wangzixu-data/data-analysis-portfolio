@@ -3,7 +3,7 @@
 内蒙古工业大学 · 数据科学与大数据技术 · 2027届本科
 
 ## 👤 关于我
-- 掌握的技能：SQL / Python(Pandas, scikit-learn) / Power BI(DAX) / Excel 
+- 掌握的技能：SQL / Python(Pandas,numpy，matplotlib，scikit-learn) / Power BI(DAX) / Excel 
 - 证书：CDA 数据分析师 Level Ⅰ & Ⅱ、CET-4
 - 求职方向：数据分析师 / 经营分析 / BI 工程师 / 数据运营
 
